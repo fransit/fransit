@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on **Roblox systems, web projects, and FranCheese**<br><br>👯 I’m looking to collaborate on **Roblox development and web-based tools**<br><br>🤝 I’m looking for help with **scaling projects and exploring new technologies**<br><br>🌱 I’m currently learning **advanced web development, backend systems, and software engineering**<br><br>💬 Ask me about **Roblox development, LuaU scripting, UI systems, and digital products**<br><br>⚡ Fun fact: **I started building and selling digital products at a young age**<br>
+🔭 I’m currently working on **web projects, software, and FranCheese**<br><br>👯 I’m looking to collaborate on **interesting projects and new ideas**<br><br>🤝 I’m looking for help with **learning new things and improving my projects**<br><br>🌱 I’m currently learning **web development, backend, and software engineering**<br><br>💬 Ask me about **web development, coding, and digital products**<br><br>⚡ Fun fact: **I started building and selling digital products at a young age**<br>
+
 
 
 ## 🌐 Socials:
